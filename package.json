@@ -1,0 +1,19 @@
+{
+    "name": "edemmovies",
+    "version": "1.0.0",
+    "description": "API creada con la ayuda y aprendizaje del Curso Práctico de Consumo de la API REST con JavaScript en Platzi.",
+    "main": "index.html",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/eduardommv/edem-movies"
+    },
+    "author": "@eduardommv",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/eduardommv/edem-movies/blob/main/LICENSE"
+    },
+    "homepage": "https://github.com/eduardommv/edem-movies#readme"
+}
